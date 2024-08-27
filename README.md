@@ -1,38 +1,27 @@
 # Práctica| Mi primera aplicación con NPM
 
-This project was made to show the knowledge about the signature of Platform Development, and it has only that porpouse.
+Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
+1 - Cree un directorio con nombre package_manager.
+2 - Entre al directorio y ejecute el comando para iniciar una aplicación de node con npm.
+3 - Instale las siguientes dependencias: Manejador de log's, herramienta de refresco en caliente, pruebas unitarias y lint.
+4 - Configure su proyecto con git correctamente.
+5 - Suba la liga de github.
 
-The name of the web page is Automax, its a web page to rent a car, and it has 3 car pages, a contact page and also a
-about us page, that content a form that send data to out server, the server runs in the port 8888.
+## Iniciando
 
-## Getting Started
-
-For testing this project you need to use the following command in the command line of your preference.
+Para testear el proyecto puedes usar el siguiente comando
 ```
-node app.js
-```
-
-### Prerequisites
-
-You may need to install Node JS.
-
-You can get it in the following link:
-https://nodejs.org/en
-
-Check the vertion using the comand:
-
-```
-node -v
+node index.js
 ```
 
-### Installing
+### Instalando 
 
-Usa el comando para clonar el repo son ssh:
+Usa el siguiente comando para clonar el repo son ssh:
 
 ```
-git clone git@github.com:CrisRLoera/proyectoDBP.git
+git clone git@github.com:TecnoRivera/Mi-primera-aplicacion-con-NPM.git
 ```
 
-## Author
+## Autor
 
 * **Emiliano Rivera     358193**
